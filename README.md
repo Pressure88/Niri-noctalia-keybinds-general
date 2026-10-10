@@ -13,7 +13,7 @@ Small Python CLI tool to view and edit niri keybindings.
 - niri (for the config file path)
 
 ## Usage
-python main.py
+python binds_manager.py
 
 ## License
 MIT
